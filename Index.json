@@ -1,0 +1,19 @@
+{
+  "spec": 1,
+  "name": "Blank Notes",
+  "previewText": "Blank Notes 0123456789",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/rayhan0706/Blank-Notes-/refs/heads/main/BlanknotesRegular-BWwV8.ttf"
+  }
+}
